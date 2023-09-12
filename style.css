@@ -1,0 +1,42 @@
+/* header styling */
+header {
+    background-color: #e2d8e2;
+    color: #333;
+    font-size: 20px;
+}
+menu a {
+    color: black;
+    font-size: 15px;
+}
+.menu a:hover {
+    color: rgb(73, 91, 91);
+}
+.hero {
+    background-image: url();
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+.items {
+    background-color: coral;
+    color: #333;
+    padding: 20px;
+    margin: 10px;
+
+}
+.about {
+    text-align: center;
+    background-color: burlywood;
+}
+form {
+    text-align: center;
+}
+form input[type="text"], input[type="email"] textarea {
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+footer {
+    background-color: rgb(red, green, blue);
+    text-align: center;
+}
